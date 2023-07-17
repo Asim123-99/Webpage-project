@@ -71,16 +71,15 @@ h1 {
  color: white;
 }
 
-button {
- background-color: #3882F6;
- color: white;
- padding: 5px 10px; 
- margin: 8px 0;
- border: none;
- border-radius: 4px;
-}
+
 
 .sign-up-1 {
+  background-color: #3882F6;
+  color: white;
+  padding: 5px 10px; 
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
  font-size: 12px;
  width: 75px;
 }
@@ -158,17 +157,30 @@ background-color: #E5E7EB;
 
  .box { 
  background-color: #3882F6;
- padding: 30px 40px; 
+ padding: 30px 80px 30px 70px;
+ 
+ 
  border-radius: 6px;
 }
 
 .sign-up-2 {
   float:right;
+  background-color: #3882F6;
+  color: white;
+  padding: 5px 10px; 
+  margin: 8px 0;
+  border: 1px solid white;
+  border-radius: 4px;
+  font-size: 12px;
+  width: 75px;
+  
 }
-
 
 
 footer {
  background-color: #1F2937;
+ color: white;
+ text-align: center;
+ padding: 15px 0px;
 }
 
