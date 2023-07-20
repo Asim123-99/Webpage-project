@@ -45,9 +45,6 @@ a {
 
 }
 
-
-
-
 .container2 {
  width: 100%;
  max-width: 1000px;
@@ -71,8 +68,6 @@ h1 {
  color: white;
 }
 
-
-
 .sign-up-1 {
   background-color: #3882F6;
   color: white;
@@ -83,10 +78,6 @@ h1 {
  font-size: 12px;
  width: 75px;
 }
-
-
-
-
 
 .container3 {
  width: 80%;
@@ -109,9 +100,6 @@ h1 {
 .images img {
   border-radius: 6px;
 }
-
-
-
 
 article {
 background-color: #E5E7EB;
@@ -143,10 +131,6 @@ background-color: #E5E7EB;
 }
 
 
-
-
-
-
 .container5 {
   width: 100%;
   max-width: 800px;
@@ -154,15 +138,12 @@ background-color: #E5E7EB;
   color: white;
   padding: 50px 0px;
  }
-
  .box { 
  background-color: #3882F6;
  padding: 30px 80px 30px 70px;
- 
- 
  border-radius: 6px;
-}
 
+}
 .sign-up-2 {
   float:right;
   background-color: #3882F6;
@@ -175,8 +156,6 @@ background-color: #E5E7EB;
   width: 75px;
   
 }
-
-
 footer {
  background-color: #1F2937;
  color: white;
